@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection
+# Brain-Tumor-Detection with GUI
 # If you encounter this error "microsoft visual c++ 14.0 or greater is required python"
 # Do this
 # Visit the Microsoft Build Tools for Visual Studio 2019 download page: https://visualstudio.microsoft.com/downloads/
